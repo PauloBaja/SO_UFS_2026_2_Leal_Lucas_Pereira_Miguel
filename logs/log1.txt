@@ -1,4 +1,4 @@
-% time     seconds  usecs/call     calls    errors syscall
+% time     seconds  usecs/call     calls    errors  syscall
 ------ ----------- ----------- --------- --------- ------------------
  70,99    0,153941         258       595       132 futex
  13,26    0,028764          67       429           nanosleep
